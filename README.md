@@ -13,4 +13,4 @@ Building a neural network class with NumPy and implementing to make a deep NN ca
 ### Objectives
 - Build and train a deep L-layer neural network, and apply it to supervised learning
 ### Results
-- The 4-layer acheived an 80% accuracy rate on the test set of 50 examples
+- The 4-layer NN acheived an 80% accuracy rate on the test set of 50 examples
